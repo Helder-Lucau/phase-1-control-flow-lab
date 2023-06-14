@@ -5,9 +5,9 @@
     "passes": 8,
     "pending": 0,
     "failures": 0,
-    "start": "2023-06-14T17:08:37.373Z",
-    "end": "2023-06-14T17:08:38.241Z",
-    "duration": 868
+    "start": "2023-06-14T17:29:28.847Z",
+    "end": "2023-06-14T17:29:29.739Z",
+    "duration": 892
   },
   "tests": [
     {
@@ -20,28 +20,28 @@
     {
       "title": "charges 30 dollars for a distance over 2000 feet",
       "fullTitle": "index.js scuberGreetingForFeet() charges 30 dollars for a distance over 2000 feet",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "does not allow rides over 2500 feet",
       "fullTitle": "index.js scuberGreetingForFeet() does not allow rides over 2500 feet",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "returns \"Ok, sounds good.\" when the city is NYC",
       "fullTitle": "index.js ternaryCheckCity() returns \"Ok, sounds good.\" when the city is NYC",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should return \"No go.\" if the destination city is not NYC",
       "fullTitle": "index.js ternaryCheckCity() should return \"No go.\" if the destination city is not NYC",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -55,7 +55,7 @@
     {
       "title": "should return \"Thank you.\" if the tip is not as generous",
       "fullTitle": "index.js switchOnCharmFromTip() should return \"Thank you.\" if the tip is not as generous",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -80,28 +80,28 @@
     {
       "title": "charges 30 dollars for a distance over 2000 feet",
       "fullTitle": "index.js scuberGreetingForFeet() charges 30 dollars for a distance over 2000 feet",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "does not allow rides over 2500 feet",
       "fullTitle": "index.js scuberGreetingForFeet() does not allow rides over 2500 feet",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "returns \"Ok, sounds good.\" when the city is NYC",
       "fullTitle": "index.js ternaryCheckCity() returns \"Ok, sounds good.\" when the city is NYC",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should return \"No go.\" if the destination city is not NYC",
       "fullTitle": "index.js ternaryCheckCity() should return \"No go.\" if the destination city is not NYC",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -115,7 +115,7 @@
     {
       "title": "should return \"Thank you.\" if the tip is not as generous",
       "fullTitle": "index.js switchOnCharmFromTip() should return \"Thank you.\" if the tip is not as generous",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },

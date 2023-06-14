@@ -9,7 +9,6 @@ function scuberGreetingForFeet(someValue){
     return "No can do.";
   }
 }
-console.log(scuberGreetingForFeet(1500));
 function ternaryCheckCity(city){
   // Write your code here!
    return city == "NYC" ? "Ok, sounds good.": "No go.";
